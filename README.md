@@ -3,7 +3,7 @@ Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
 ## Why did I chose this dataset?
 
