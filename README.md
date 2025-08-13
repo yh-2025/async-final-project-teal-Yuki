@@ -10,7 +10,7 @@ Example: `async-final-project-teal-Anas`
 [Placeholder for answer]
 
 ## Progress
-- [ ] Picked dataset
+- [ X] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
