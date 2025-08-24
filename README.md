@@ -7,7 +7,7 @@ Example: `async-final-project-teal-Anas`
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+[I chose this dataset, because I personally have taken surveys that is marketing based and I was curious what are some of the conclusions they can get from some of the many consumers they survey. ]
 
 ## Progress
 - [ X] Picked dataset
@@ -25,9 +25,9 @@ Example: `async-final-project-teal-Anas`
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: [Who buys the most wine based on education levels?]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+- [ X] Question 3: [Who buys the most wine based on education levels?]
+  - Answer: [After looking at the pie chart we are able to conclude that people who holds a bachelor degree are the main consumers of wine in this customer personality dataset.]
+  - Visualization: ![Q3 Visualization](![alt text](image-2.png))
 
 - [ ] Question 4: [On adverage do families with children buy more fruit or families with teens?]
   - Answer: [Placeholder for answer]
