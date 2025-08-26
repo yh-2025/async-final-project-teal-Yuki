@@ -1,6 +1,5 @@
 ## Repository name
-Your repostiory should be named something like `async-final-project-color-name`
-Example: `async-final-project-teal-Anas`
+ `async-final-project-teal-Yuki`
 
 ## Dataset
 [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
