@@ -26,7 +26,7 @@
 
 - [ X] Question 3: [Who buys the most wine based on education levels?]
   - Answer: [After looking at the pie chart we are able to conclude that people who holds a bachelor degree are the main consumers of wine in this customer personality dataset.]
-  - Visualization: ![Q3 Visualization](![alt text](image-2.png))
+  - Visualization: ![Q3 Visualization](![alt text](img/Q3.png))
 
 - [ ] Question 4: [On adverage do families with children buy more fruit or families with teens?]
   - Answer: [Placeholder for answer]
